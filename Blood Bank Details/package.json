@@ -1,0 +1,10 @@
+{
+  "name": "India Tour Guide",
+  "version": "1.0.0",
+  "description": "10 indian cities Itinerary",
+  "main": "index.js",
+  "author": "Avi Kathuria",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
