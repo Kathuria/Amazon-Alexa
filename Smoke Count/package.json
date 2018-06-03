@@ -1,0 +1,10 @@
+{
+  "name": "Smoke Count",
+  "version": "1.0.1",
+  "description": "A skill that can help to track every smoke",
+  "main": "index.js",
+  "author": "Avi Kathuria",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
