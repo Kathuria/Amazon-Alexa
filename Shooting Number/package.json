@@ -1,0 +1,10 @@
+{
+  "name": "Shoot the number",
+  "version": "1.0.0",
+  "description": "Shoot the number with multiples of 5",
+  "main": "index.js",
+  "author": "Avi Kathuria",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
