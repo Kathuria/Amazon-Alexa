@@ -1,0 +1,10 @@
+{
+  "name": "Indian Traditions",
+  "version": "1.0.0",
+  "description": "Indian Tradition details",
+  "main": "index.js",
+  "author": "Avi Kathuria",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
