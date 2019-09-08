@@ -1,0 +1,10 @@
+{
+  "name": "HindiAlphabets",
+  "version": "1.0.0",
+  "description": "Skill to play ka kha ga",
+  "main": "index.js",
+  "author": "Avi Kathuria",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
